@@ -5,14 +5,14 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
 ### (Docs 1 - 3). Data collection with Webscraping and Data wrangling
 #### Objectives
+- Consume SpaceX API 
 - Write Python code to manipulate data in a Pandas data frame.
 - Convert a JSON file into a Create a Python Pandas data frame by converting a JSON file
-- Create a Jupyter notebook and make it sharable using GitHub
 - Use data science methodologies to define and formulate a real-world business problem.
 - Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 
 ### (Docs 4 - 5). Exploratory Data Analysis (EDA) & Data Visualization
-Make use a RESTful API  and web scraping. Convert the data into a dataframe and then perform some data wrangling.
+Convert the data into a dataframe and then perform some data wrangling.
 #### Objectives
 - Write and execute SQL queries to select and sort data
 - Create scatter plots and bar charts by writing Python code to analyze data in a Pandas data frame
